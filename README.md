@@ -1,2 +1,2 @@
 # Lista-Tarefas-React 💻
-Criado com o CodeSandbox no curso <strong><a href="https://www.udemy.com/share/102LjW3@YehiyLLZ-T4ogQmdqieSCfx6FLsTmD1Fuz6LsOjtTVX-IhD_tuPWCPG3RwlbXB26bA==/">React para Iniciantes</a></strong> na `Udemy`
+Criado com o CodeSandbox no curso <strong><a href="https://www.udemy.com/share/103Gu93@DCe1hfnr7RxsKdpkvzaR7HuaCj4SZGEkJvl0nykjaqY6Bmg5TMjoRgyTpFcC2RDLQA==/">React para Iniciantes</a></strong> na `Udemy`
